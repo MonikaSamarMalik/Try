@@ -1,0 +1,9 @@
+{
+	"name": "MonikaDataLoad",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "27b27ccd-7dea-4b63-9bb5-b3f275d7a57d",
+		"tenantId": "892574d2-9909-4a4f-81ec-fc2b84f08362"
+	}
+}
